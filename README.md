@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rafael
 - 👀 I’m interested in Linux, containers and cloud
-- 🌱 I’m currently learning Kubernetes and software-defined networking
 - 📫 You can reach me by [email](mailto:rafael.pardini99@gmail.com) or at [Linkedin](https://www.linkedin.com/in/rafael-pardini-guedes/)
 
 <!---
